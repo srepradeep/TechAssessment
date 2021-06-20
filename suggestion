@@ -1,0 +1,6 @@
+Suggession:
+===========
+1) Currenty index is available only for Id column.
+   Index can be added for ParentId which will help in query performance.
+   
+2) Re-Indexing the tables periodically.
